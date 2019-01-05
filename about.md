@@ -6,7 +6,7 @@ permalink: /about/
 
 #### 2 Languages I can kick ass in
 * Rails and Ruby
-* Javascript and Ember
+* Javascript and Angular
 
 #### 3 Things I consider important
 * Testing
@@ -15,9 +15,9 @@ permalink: /about/
 
 #### 4 Tools that work for me
 * PostgreSQL
-* Grunt
-* Broccoli
-* RSpec and QUnit
+* Webpack
+* RSpec
+* Jasmine
 
 ### Contact me
 
